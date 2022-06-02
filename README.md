@@ -7,7 +7,7 @@
 
 ## 1) Why
 
-Because we have been asked a few times where the list comes from, we decided to make it public for everyone! This is a JSON raw list where the key is the hex color and the value is the name 🎉
+Because we have been asked a few times where the list comes from, we decided to make it public for everyone! This is a JSON raw list where the key is the **hex color** and the value is the **name** 🎉
 
 The list is sorted by color code, **`[000000, ..., FFFFFF]`** and we have 2 versions, one with the prefix #, and the other without 🥳
 
